@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	border-sizing: border-box;
+	font-family: "Montserrat", sans-serif;
+}
+
+nav{
+	background-color: #c9a88d;
+}
+
+#projects{
+	background-color: #fbeddb;
+}
+
+#contact{
+	background-color: #fbeddb;
+}
+
+#footer{
+	background-color: #fbeddb;
+}
